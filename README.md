@@ -1,4 +1,7 @@
-# Hypergraph_Resources
+# Hypergraph Resources
+
+### Introduction
+Below are links to hypergraph resource libraries for Python and MATLAB. To that end, the "Python x MATLAB Integration.pdf" contains an explanation for how to pass MATLAB variables to Python in order to generate hypergraph visualisations. The "xgi_test.py" file can be used to test passing an incidence matrix from MATLAB and generating a hypergraph visual and shortest path Python dictionary.
 
 ### Links to Code Resources
 https://www.mathworks.com/matlabcentral/fileexchange/121013-hat-hypergraph-analysis-toolbox
